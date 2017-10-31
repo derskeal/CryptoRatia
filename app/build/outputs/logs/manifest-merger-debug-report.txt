@@ -1,0 +1,116 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml:8:5-28:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Derskeal\.android\build-cache\f18e9e771a78535bfc80ed9a0b102d02df7ae136\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Derskeal\.android\build-cache\0635f996d884e37855769c2461d2a54ee4f2f057\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Derskeal\.android\build-cache\2b76018e94296139ec3cb25d9b11b011c3583b6b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Derskeal\.android\build-cache\16dcf88ddabc6baecf2136ebfc911ddf7400f46a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Derskeal\.android\build-cache\ffbd47a751f537f2ade8f2cbdb73ada6d6c30129\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Derskeal\.android\build-cache\b5f6f4d7bc405f78ffde8f3ef54bdac253620a7b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Derskeal\.android\build-cache\3a422c0d6926ebf5d598a77812643c35d0409cca\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Derskeal\.android\build-cache\f38a31f159219768261e61bdfa78a32d02d69850\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Derskeal\.android\build-cache\5e8d2f29ec9eb214ea7ce16600dab1a1aab7681b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Derskeal\.android\build-cache\17a5dd1f5e7e056df292036107a58a12f84a4e1b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Derskeal\.android\build-cache\92c4c7805b9faea2d5ded3ba6ba596f4b823a91c\output\AndroidManifest.xml:26:5-20
+	android:label
+		ADDED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml:10:9-38
+	android:theme
+		ADDED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.derskeal.cryptoratia.MainActivity
+ADDED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.derskeal.cryptoratia.btc
+ADDED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml:22:9-24:20
+	android:parentActivityName
+		ADDED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml:22:39-105
+	android:windowSoftInputMode
+		ADDED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml:22:106-157
+	android:name
+		ADDED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml:22:19-38
+activity#com.derskeal.cryptoratia.eth
+ADDED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml:25:9-27:20
+	android:parentActivityName
+		ADDED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml:25:39-105
+	android:windowSoftInputMode
+		ADDED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml:25:106-157
+	android:name
+		ADDED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml:25:19-38
+uses-sdk
+INJECTED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Derskeal\.android\build-cache\f18e9e771a78535bfc80ed9a0b102d02df7ae136\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Derskeal\.android\build-cache\0635f996d884e37855769c2461d2a54ee4f2f057\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Derskeal\.android\build-cache\2b76018e94296139ec3cb25d9b11b011c3583b6b\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Derskeal\.android\build-cache\16dcf88ddabc6baecf2136ebfc911ddf7400f46a\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Derskeal\.android\build-cache\ffbd47a751f537f2ade8f2cbdb73ada6d6c30129\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Derskeal\.android\build-cache\b5f6f4d7bc405f78ffde8f3ef54bdac253620a7b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Derskeal\.android\build-cache\3a422c0d6926ebf5d598a77812643c35d0409cca\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Derskeal\.android\build-cache\f38a31f159219768261e61bdfa78a32d02d69850\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Derskeal\.android\build-cache\de6f29c3823872a45e16e0394e6481559d0f8d5a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Derskeal\.android\build-cache\5e8d2f29ec9eb214ea7ce16600dab1a1aab7681b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Derskeal\.android\build-cache\17a5dd1f5e7e056df292036107a58a12f84a4e1b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Derskeal\.android\build-cache\92c4c7805b9faea2d5ded3ba6ba596f4b823a91c\output\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Derskeal\.android\build-cache\f18e9e771a78535bfc80ed9a0b102d02df7ae136\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Derskeal\.android\build-cache\f18e9e771a78535bfc80ed9a0b102d02df7ae136\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Derskeal\.android\build-cache\0635f996d884e37855769c2461d2a54ee4f2f057\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Derskeal\.android\build-cache\2b76018e94296139ec3cb25d9b11b011c3583b6b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Derskeal\.android\build-cache\16dcf88ddabc6baecf2136ebfc911ddf7400f46a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Derskeal\.android\build-cache\ffbd47a751f537f2ade8f2cbdb73ada6d6c30129\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Derskeal\.android\build-cache\b5f6f4d7bc405f78ffde8f3ef54bdac253620a7b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Derskeal\.android\build-cache\3a422c0d6926ebf5d598a77812643c35d0409cca\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Derskeal\.android\build-cache\de6f29c3823872a45e16e0394e6481559d0f8d5a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Derskeal\.android\build-cache\5e8d2f29ec9eb214ea7ce16600dab1a1aab7681b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Derskeal\.android\build-cache\17a5dd1f5e7e056df292036107a58a12f84a4e1b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Derskeal\.android\build-cache\92c4c7805b9faea2d5ded3ba6ba596f4b823a91c\output\AndroidManifest.xml:22:5-24:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Derskeal\.android\build-cache\f18e9e771a78535bfc80ed9a0b102d02df7ae136\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Derskeal\.android\build-cache\f18e9e771a78535bfc80ed9a0b102d02df7ae136\output\AndroidManifest.xml:26:9-47
