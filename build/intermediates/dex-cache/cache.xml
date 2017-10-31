@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Derskeal\.android\build-cache\de6f29c3823872a45e16e0394e6481559d0f8d5a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\build\intermediates\pre-dexed\debug\classes_7b1bb3cb02443825124bca43954093973df31f33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Derskeal\.android\build-cache\92c4c7805b9faea2d5ded3ba6ba596f4b823a91c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\build\intermediates\pre-dexed\debug\classes_56d1ca3bc930bda23bc8a8885c0e26addb3260d2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="470af3c494c3fa71467a87814018739928b99243">
+        <dex dex="C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3e858724e72d3b5e1d07bbb12f428f34f17a6d9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Derskeal\AndroidStudioProjects\CryptoRaTia\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_51e166106f66bbe8e2db8ab78e87884e72acf0f7\classes.dex" />
+    </item>
+
+</items>
