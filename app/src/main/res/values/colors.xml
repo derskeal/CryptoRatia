@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="my_color_primary">#7030a0</color>
+    <color name="my_background_material_dark">#e4e4e4</color>
+    <color name="my_background_material">#ffffff</color>
+    <color name="my_foreground_material_dark">#000000</color>
+    <color name="my_color_primary_dark">#5e2884</color>
+    <color name="mainactcards">#ff6600</color>
+</resources>

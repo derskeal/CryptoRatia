@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CryptoRaTia</string>
+    <string name="refresh">Refresh Rates</string>
+    <string name="settings">Settings</string>
+    <string name="btcinputnametext">Input BTC value</string>
+    <string name="ethinputnametext">Input ETH value</string>
+</resources>
